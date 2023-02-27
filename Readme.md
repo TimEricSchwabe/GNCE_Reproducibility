@@ -5,6 +5,8 @@ methods in the paper "Cardinality Estimation over Knowledge Graphs with Embeddin
 
 The raw data can be found under https://drive.google.com/drive/folders/1figNweDOki9oGwVPZFu9GzrVjUlC1hrz?usp=sharing
 
+The implementation of GNCE can be found under: https://github.com/TimEricSchwabe/GNCE <br>
+<br>
 The structure is as follows:
 ```
 /Data
