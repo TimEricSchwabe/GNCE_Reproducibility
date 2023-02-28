@@ -7,6 +7,8 @@ The raw data can be found under https://drive.google.com/drive/folders/1figNweDO
 
 The implementation of GNCE can be found under: https://github.com/TimEricSchwabe/GNCE <br>
 <br>
+The implementation of the used query sampler can be found here: https://github.com/maribelacosta/subgraph-sampler <br>
+<br>
 The structure is as follows:
 ```
 /Data
